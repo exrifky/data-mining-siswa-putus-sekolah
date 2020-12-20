@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy==19.2.3
+pomegranate
+base64
+gspread
+matplotlib
