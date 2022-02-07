@@ -1,6 +1,6 @@
 # Testing Aplikasi Tugas Akhir
 
-Pengujian menggunakna Amazon Web Service\
+Pengujian menggunakan Amazon Web Service\
 \
 -*bayes-17e255d53554.json* --> Untuk keperluan web service antara AWS dan Google Spreadsheet\
 -Source code Python *ok.py* adalah source code akhir\
