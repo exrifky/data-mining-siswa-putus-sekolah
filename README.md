@@ -7,3 +7,5 @@ Pengujian menggunakan Amazon Web Service\
 -*requirements.txt* berguna untuk mendaftar library yang digunakan\
 -*setup.sh* untuk instalasi streamlit\
 -*sma.png* logo pada tampilan utama streamlit\
+
+![alt text](https://i.ibb.co/pfSk5p4/Group-65.png)
