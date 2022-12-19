@@ -2,6 +2,5 @@ streamlit
 pandas
 numpy
 pomegranate
-base64
 gspread
 matplotlib
